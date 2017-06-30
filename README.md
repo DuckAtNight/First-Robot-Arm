@@ -1,3 +1,3 @@
 # First-Robot-Arm
 
-#Test
+Goal is to build low cost Stepper motor driver robotic arm. 
